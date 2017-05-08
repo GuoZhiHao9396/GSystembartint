@@ -1,5 +1,5 @@
 # GSystembartint
-#沉浸式状态栏
+# 沉浸式状态栏
 
 ![image](https://github.com/GuoZhiHao9396/GSystembartint/blob/master/app/src/main/res/raw/test.png)
 
@@ -18,7 +18,7 @@ Add it in your root build.gradle at the end of repositories:
     }
 ```
 
-#属性介绍
+# 属性介绍
 
 ```text
       setStatusBarTintEnabled：是否启动状态栏
@@ -41,7 +41,7 @@ Add it in your root build.gradle at the end of repositories:
 
 ```
 
-#使用介绍
+# 使用介绍
 
 1.使用方法
 ```java
@@ -95,7 +95,7 @@ xml
 ```
 
 
-#License
+# License
 ```text
 Copyright 2017 ZhiHao Guo
 
